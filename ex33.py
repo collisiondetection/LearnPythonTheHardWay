@@ -1,3 +1,6 @@
+from birdseye import eye
+
+@eye
 i = 0
 numbers = []
 
